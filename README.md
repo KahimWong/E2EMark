@@ -12,7 +12,7 @@
 
 ---
 
-**E2EMark** is now an officially supported method in [MarkLLM](https://github.com/THU-BPM/MarkLLM) (E2E-LLM-Watermark).
+**E2EMark** is now an supported method in [MarkLLM](https://github.com/THU-BPM/MarkLLM) (E2E-LLM-Watermark).
 
 ## ✨ Highlights
 
